@@ -1,4 +1,4 @@
 line01
-line02a
+line02
 line03a
 line04
